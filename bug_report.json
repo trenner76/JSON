@@ -1,1 +1,12 @@
-
+{
+	"article":
+	{
+		"para": ["Summary", "ID", "Description", 
+		"Steps to reproduce", "Priority", "Severity", 
+		"Status", "Avtor", "Environment", "Attached files"],
+		"@attributes":
+		{
+			"lang": ""
+		}
+	}
+}
